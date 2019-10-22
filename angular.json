@@ -27,7 +27,7 @@
               "src/styles.css"
             ],
             "scripts": [
-               "node_modules/ngf-bootstrap/dist/js/jquery-1.11.0.min.js",
+               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/ngf-bootstrap/dist/js/bootstrap.js"
             ]
           },
